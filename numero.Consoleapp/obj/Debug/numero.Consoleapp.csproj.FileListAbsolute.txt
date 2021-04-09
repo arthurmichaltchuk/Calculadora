@@ -1,0 +1,7 @@
+C:\Users\Ivana\Desktop\NDD\numero.Consoleapp\numero.Consoleapp\bin\Debug\numero.Consoleapp.exe.config
+C:\Users\Ivana\Desktop\NDD\numero.Consoleapp\numero.Consoleapp\bin\Debug\numero.Consoleapp.exe
+C:\Users\Ivana\Desktop\NDD\numero.Consoleapp\numero.Consoleapp\bin\Debug\numero.Consoleapp.pdb
+C:\Users\Ivana\Desktop\NDD\numero.Consoleapp\numero.Consoleapp\obj\Debug\numero.Consoleapp.csprojAssemblyReference.cache
+C:\Users\Ivana\Desktop\NDD\numero.Consoleapp\numero.Consoleapp\obj\Debug\numero.Consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\NDD\numero.Consoleapp\numero.Consoleapp\obj\Debug\numero.Consoleapp.exe
+C:\Users\Ivana\Desktop\NDD\numero.Consoleapp\numero.Consoleapp\obj\Debug\numero.Consoleapp.pdb
